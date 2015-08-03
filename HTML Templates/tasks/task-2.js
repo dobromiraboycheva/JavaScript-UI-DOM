@@ -25,5 +25,4 @@ function solve() {
     $(selector).html(template);   
   };
 };
-
 module.exports = solve;
